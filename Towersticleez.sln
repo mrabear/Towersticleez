@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Towersticleez", "Towersticleez\Towersticleez.vcxproj", "{A7C1C946-FD52-48ED-A010-F8CFEE957DF4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Towersticleez", "Towersticleez\Towersticleez.vcxproj", "{694932A0-AC76-4C0B-82B3-23D52C141CCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7C1C946-FD52-48ED-A010-F8CFEE957DF4}.Debug|Win32.ActiveCfg = Debug|Win32
-		{A7C1C946-FD52-48ED-A010-F8CFEE957DF4}.Debug|Win32.Build.0 = Debug|Win32
-		{A7C1C946-FD52-48ED-A010-F8CFEE957DF4}.Release|Win32.ActiveCfg = Release|Win32
-		{A7C1C946-FD52-48ED-A010-F8CFEE957DF4}.Release|Win32.Build.0 = Release|Win32
+		{694932A0-AC76-4C0B-82B3-23D52C141CCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{694932A0-AC76-4C0B-82B3-23D52C141CCD}.Debug|Win32.Build.0 = Debug|Win32
+		{694932A0-AC76-4C0B-82B3-23D52C141CCD}.Release|Win32.ActiveCfg = Release|Win32
+		{694932A0-AC76-4C0B-82B3-23D52C141CCD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
